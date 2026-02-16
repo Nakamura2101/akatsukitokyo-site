@@ -30,7 +30,7 @@ const BusinessLines: React.FC = () => {
       title: t.business.cars.title,
       description: t.business.cars.desc,
       image: withBaseUrl('image/car.jpg'),
-      link: "https://www.facebook.com/profile.php?id=61568426049252"
+      link: "https://next-used-car.com/"
     },
     {
       icon: <Home className="w-10 h-10 text-red-600" />,

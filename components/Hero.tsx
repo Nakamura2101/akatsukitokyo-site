@@ -22,7 +22,7 @@ const Hero: React.FC = () => {
 
   const links = {
     spa: "https://www.ri-beauty-spa.com/",
-    cars: "https://www.facebook.com/profile.php?id=61568426049252",
+    cars: "https://next-used-car.com/",
     realEstate: "https://a-real-estate.net/"
   };
 
